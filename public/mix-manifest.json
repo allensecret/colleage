@@ -1,0 +1,9 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/css/frontplatform/my_css.css": "/css/frontplatform/my_css.css",
+    "/css/frontplatform/calendar.css": "/css/frontplatform/calendar.css",
+    "/js/frontplatform/calendar.js": "/js/frontplatform/calendar.js",
+    "/js/frontplatform/d3_bar_graph.js": "/js/frontplatform/d3_bar_graph.js",
+    "/js/frontplatform/d3_pie_chart.js": "/js/frontplatform/d3_pie_chart.js"
+}
